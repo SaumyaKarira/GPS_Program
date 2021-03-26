@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPS Program</string>
+    <string name="get_my_location">Get My Location</string>
+</resources>
